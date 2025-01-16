@@ -8,8 +8,6 @@
 
     10.9.1 - 10.9.5
 ```
----
-
 ### LAB 1-1: Simple Network Hardware
 
 ### LAB 1-2: Register for Cisco Net Academy
