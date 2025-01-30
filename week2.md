@@ -6,6 +6,8 @@
 
 ### LAB 2-1: Subnet Design
 
+Assigning ports to certian Vlans is tedious manually. Using cisco command
+
 ```
 (config)interface range FastEthernet 0/x-y (let's you configure multiple ports at one time)
 (config-if-range)switchport access vlan x (defines the vlan for all ports in the range)
